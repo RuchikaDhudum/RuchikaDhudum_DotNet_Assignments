@@ -1,0 +1,7 @@
+C:\Users\Ruchika\source\repos\RuchikaDhudum_Assignment1\RuchikaDhudum_Assignment1\obj\Debug\RuchikaDhudum_Assignment1.csproj.AssemblyReference.cache
+C:\Users\Ruchika\source\repos\RuchikaDhudum_Assignment1\RuchikaDhudum_Assignment1\obj\Debug\RuchikaDhudum_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Ruchika\source\repos\RuchikaDhudum_Assignment1\RuchikaDhudum_Assignment1\bin\Debug\RuchikaDhudum_Assignment1.exe.config
+C:\Users\Ruchika\source\repos\RuchikaDhudum_Assignment1\RuchikaDhudum_Assignment1\bin\Debug\RuchikaDhudum_Assignment1.exe
+C:\Users\Ruchika\source\repos\RuchikaDhudum_Assignment1\RuchikaDhudum_Assignment1\bin\Debug\RuchikaDhudum_Assignment1.pdb
+C:\Users\Ruchika\source\repos\RuchikaDhudum_Assignment1\RuchikaDhudum_Assignment1\obj\Debug\RuchikaDhudum_Assignment1.exe
+C:\Users\Ruchika\source\repos\RuchikaDhudum_Assignment1\RuchikaDhudum_Assignment1\obj\Debug\RuchikaDhudum_Assignment1.pdb
