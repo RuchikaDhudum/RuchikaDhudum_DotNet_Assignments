@@ -1,0 +1,6 @@
+@EmployeeManagementSystemAssignment_Ruchika_HostAddress = http://localhost:5124
+
+GET {{EmployeeManagementSystemAssignment_Ruchika_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
