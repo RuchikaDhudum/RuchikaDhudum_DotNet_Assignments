@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmployeeManagementSystemAssignment_Ruchika.props" />
+</Project>
